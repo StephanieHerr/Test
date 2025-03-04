@@ -1,0 +1,12 @@
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\bin\Debug\DatabaseProjectAdventureWorks2022.dacpac
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\bin\Debug\DatabaseProjectAdventureWorks2022.dll
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\bin\Debug\DatabaseProjectAdventureWorks2022.pdb
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\DatabaseProjectAdventureWorks2022.sqlproj.AssemblyReference.cache
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\DatabaseProjectAdventureWorks2022.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\DatabaseProjectAdventureWorks2022.sourcelink.json
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\Model.xml
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\refactor.xml
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\postdeploy.sql
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\predeploy.sql
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\DatabaseProjectAdventureWorks2022.dll
+c:\Users\stephanie.herr\Documents\VS Code\Test\Test\Database\DatabaseProjectAdventureWorks2022\obj\Debug\DatabaseProjectAdventureWorks2022.pdb

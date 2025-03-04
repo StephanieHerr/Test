@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KncieL+S9EE=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\stephanie.herr\\Documents\\VS Code\\Test\\Test\\Database\\DatabaseProjectAdventureWorks2022\\DatabaseProjectAdventureWorks2022.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stephanie.herr\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\stephanie.herr\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
