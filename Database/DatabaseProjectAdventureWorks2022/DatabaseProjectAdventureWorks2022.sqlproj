@@ -10,6 +10,9 @@
   <ItemGroup>
     <None Include="DatabaseProjectAdventureWorks2022_1.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="Script.PreDeployment1.sql" />
+  </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
   </Target>
